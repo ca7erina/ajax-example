@@ -1,0 +1,17 @@
+<entries>
+    <entry>
+        <storename>Aldi</storename>
+	<numberOfPeopleEntering>10</numberOfPeopleEntering>
+	<numberOfPeopleLeaving>8</numberOfPeopleLeaving>
+    </entry>
+    <entry>
+        <storename>Tesco</storename>
+	<numberOfPeopleEntering>20</numberOfPeopleEntering>
+	<numberOfPeopleLeaving>15</numberOfPeopleLeaving>
+    </entry>
+    <entry>
+        <storename>Lsdfidl</storename>
+	<numberOfPeopleEntering>6</numberOfPeopleEntering>
+	<numberOfPeopleLeaving>10</numberOfPeopleLeaving>
+    </entry>
+</entries>

@@ -1,0 +1,12 @@
+1. "lab9_json.php" contains js ajax request to---> "lab9_serverApp.php" (load file and return json )
+js ajax in "lab9_json.php": get response and using JSON parse and display it.
+
+this version can calculate the sum of customers.
+
+
+2. "lab9_xml.php" contains js using JQuery to make ajax request to --> "lab9_serverApp.php" (load file and return xml )
+JQuery in "lab9_xml.php" parse the response and display the data.
+
+
+
+

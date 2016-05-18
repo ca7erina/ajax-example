@@ -1,0 +1,5 @@
+{"entries":[
+    {"storename":"Aldi", "numberOfPeopleEntering":"10","numberOfPeopleLeaving":"8"},
+    {"storename":"Tesco", "numberOfPeopleEntering":"20","numberOfPeopleLeaving":"15"},
+    {"storename":"Lidl", "numberOfPeopleEntering":"7","numberOfPeopleLeaving":"3"}
+]}
